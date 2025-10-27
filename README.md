@@ -28,6 +28,14 @@
 
 ---
 
+### 🏅 Open Source Contribution
+
+🤝 Contributor @ **GSSoC 2025**  
+
+![GSSoC](https://img.shields.io/badge/GSSoC%202025-Contributor-ff6f91?style=for-the-badge)
+
+---
+
 ### 🌍 Connect with Me!!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prerona-pattrea-a83492250)
